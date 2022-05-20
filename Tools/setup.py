@@ -27,7 +27,7 @@ REQUIRED = [
     'scipy',
     # 'otps',  # Hard to install, but available on Sandbox
     # datahandling
-    'GDAL',
+    # 'GDAL',
     'odc-ui',
     'numexpr',
     # plotting
