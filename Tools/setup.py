@@ -32,7 +32,7 @@ REQUIRED = [
     'numexpr',
     # plotting
     'folium',
-    'pyproj',f
+    'pyproj',
     'branca',
     'shapely',
     'scikit-image',
