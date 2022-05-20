@@ -32,7 +32,7 @@ REQUIRED = [
     'numexpr',
     # plotting
     'folium',
-    'pyproj',
+    'pyproj',f
     'branca',
     'shapely',
     'scikit-image',
@@ -42,7 +42,7 @@ REQUIRED = [
     'rasterstats',
     'geopy',
     'OWSLib',
-    'fiona',
+    # 'fiona',
     'shapely',
     # app subpackage modules
     'datetime'
