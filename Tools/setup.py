@@ -19,7 +19,7 @@ REQUIRED = [
     'datacube',
     'tqdm',
     'dask',
-    'rasterio',
+    # 'rasterio',
     'scikit-learn',
     # coastal
     'matplotlib',
